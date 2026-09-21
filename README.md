@@ -130,7 +130,7 @@ SQL Server was used to analyze churn across:
 
 ## 📊 Dashboard Preview
 
-![Telco Customer Churn Dashboard](images/dashboard.png)
+Telco-Customer-Churn_Dashboard.png
 
 ## 📁 Project Structure
 
