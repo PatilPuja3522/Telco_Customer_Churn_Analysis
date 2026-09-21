@@ -130,8 +130,6 @@ SQL Server was used to analyze churn across:
 
 ## 📊 Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
-
 ![Telco Customer Churn Dashboard](images/dashboard.png)
 
 ## 📁 Project Structure
@@ -159,10 +157,11 @@ Telco_Customer_Churn_Analysis/
 │
 └── README.md
 
-🎯 Project Objective
+
+## 🎯 Project Objective
 
 The main objective of this project is to transform raw customer data into actionable business insights by combining data cleaning, SQL analysis, and interactive Power BI visualization.
 
-👤 Author
+## 👤 Author
 
 Your Name : Puja Patil
